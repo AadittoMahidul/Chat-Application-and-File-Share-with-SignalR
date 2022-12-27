@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <environment include="Development">
+        <link rel="stylesheet" href="~/libs/bootstrap/css/bootstrap.css">
+        <script src="~/libs/bootstrap/js/bootstrap.bundle.js"></script>
+    </environment>    
+    <style>
+        body{
+            padding-top:70px;
+        }
+        .foot{
+            background-color: green;
+            opacity: 0.4;
+            color: white;
+            bottom: 1.5px;
+            padding-top: 10px;
+            padding-left:10px;
+            width: 100%;
+            position: fixed;
+        }
+    </style>
+    @await RenderSectionAsync("styles", false)
+</head>
+<body>
+    <nav class="navbar navbar-light bg-light fixed-top navbar-expand-md shadow-sm">
+        <div class="container-fluid">
+            <span class="navbar-brand">ChatApp <sup>SignalR</sup></span>
+            <div class="navbar-collapse collapse">
+                <ul class="navbar-nav nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="Home" >Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="Chat">Chat</a>
+                    </li>                    
+                </ul>
+            </div>
+        </div>
+    </nav>      
+    <div class="container-fluid">
+        
+        @RenderBody()
+    </div>
+    @await RenderSectionAsync("scripts", false)
+    
+    <footer class="foot">
+        <p style="font-size:24px;">Designed by:<b> MD. MAHIDUL MOLLA - 1268459</b></p>
+    </footer>
+</body>
+</html>

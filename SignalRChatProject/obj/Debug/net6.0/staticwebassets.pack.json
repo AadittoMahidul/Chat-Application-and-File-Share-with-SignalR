@@ -1,0 +1,617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\Uploads\\1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\Uploads\\2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\Uploads\\3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\Uploads\\4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\Uploads\\5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\Uploads\\doc.png",
+      "PackagePath": "staticwebassets\\Uploads\\doc.png"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\Uploads\\electricity.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\electricity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\signalR\\jquery.signalR.js",
+      "PackagePath": "staticwebassets\\libs\\signalR\\jquery.signalR.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\signalR\\jquery.signalR.min.js",
+      "PackagePath": "staticwebassets\\libs\\signalR\\jquery.signalR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\signalR\\signalr.js",
+      "PackagePath": "staticwebassets\\libs\\signalR\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\LAB104-06\\Desktop\\1268459\\SignalRChatProjects\\SignalRChatProject\\wwwroot\\libs\\signalR\\signalr.min.js",
+      "PackagePath": "staticwebassets\\libs\\signalR\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SignalRChatProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SignalRChatProject.props",
+      "PackagePath": "build\\SignalRChatProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalRChatProject.props",
+      "PackagePath": "buildMultiTargeting\\SignalRChatProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SignalRChatProject.props",
+      "PackagePath": "buildTransitive\\SignalRChatProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
